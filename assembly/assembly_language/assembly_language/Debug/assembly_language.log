@@ -1,0 +1,6 @@
+﻿  源.cpp
+e:\cse-lessons\assembly\assembly_language\assembly_language\源.cpp(44): warning C4102: “equal”: 未引用的标签
+e:\cse-lessons\assembly\assembly_language\assembly_language\源.cpp(50): warning C4102: “nequal”: 未引用的标签
+e:\cse-lessons\assembly\assembly_language\assembly_language\源.cpp(13): warning C4101: “end”: 未引用的局部变量
+  assembly_language.vcxproj -> E:\CSE-Lessons\assembly\assembly_language\Debug\assembly_language.exe
+  assembly_language.vcxproj -> E:\CSE-Lessons\assembly\assembly_language\Debug\assembly_language.pdb (Partial PDB)
